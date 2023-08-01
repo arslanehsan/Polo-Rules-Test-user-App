@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29763040997",
+    "firebase_url": "https://polo-rules-default-rtdb.firebaseio.com",
+    "project_id": "polo-rules",
+    "storage_bucket": "polo-rules.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29763040997:android:c2efcd9a460dddee69c60c",
+        "android_client_info": {
+          "package_name": "com.stormdeve.polo_rules_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29763040997-p1vekhtugt29bct22kpod8sf785746sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArNJhVod7sTRtHktPrVWHbogVO2kj6Tl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29763040997-p1vekhtugt29bct22kpod8sf785746sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
